@@ -20,6 +20,8 @@ Este artigo aborda os principais desafios éticos a respeito do uso de IA genera
 - [ChatGPT](https://chat.openai.com/) 
 - [MagicMedia](https://www.canva.com/ai-image-generator/)
 - [GoogleDocs](https://docs.google.com/document/create)
+- [CapCut](https://www.capcut.com/)
+- Música: Lofi News/Calm/Inorganic/Without Intro (1311398)
 - Consultas a artigos acadêmicos e técnicos
 
 ## Prompts
@@ -45,7 +47,7 @@ Utilize os prompts acima junto com as ferramentas sugeridas para gerar o materia
 ## Resultados
 
 - Artigo disponível em `artigo`
-- Podcast disponível em `podcast`
+- Áudio disponível em `podcast`
 
 ## Licença
 
